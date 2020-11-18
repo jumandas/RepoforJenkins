@@ -1,0 +1,7 @@
+C:\Users\abc\source\repos\LTIday1\LTIday1\bin\Debug\LTIday1.exe.config
+C:\Users\abc\source\repos\LTIday1\LTIday1\bin\Debug\LTIday1.exe
+C:\Users\abc\source\repos\LTIday1\LTIday1\bin\Debug\LTIday1.pdb
+C:\Users\abc\source\repos\LTIday1\LTIday1\obj\Debug\LTIday1.csprojAssemblyReference.cache
+C:\Users\abc\source\repos\LTIday1\LTIday1\obj\Debug\LTIday1.csproj.CoreCompileInputs.cache
+C:\Users\abc\source\repos\LTIday1\LTIday1\obj\Debug\LTIday1.exe
+C:\Users\abc\source\repos\LTIday1\LTIday1\obj\Debug\LTIday1.pdb
