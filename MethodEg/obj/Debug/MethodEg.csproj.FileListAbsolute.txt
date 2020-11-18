@@ -1,0 +1,7 @@
+C:\Users\abc\source\repos\LTIday1\MethodEg\bin\Debug\MethodEg.exe.config
+C:\Users\abc\source\repos\LTIday1\MethodEg\bin\Debug\MethodEg.exe
+C:\Users\abc\source\repos\LTIday1\MethodEg\bin\Debug\MethodEg.pdb
+C:\Users\abc\source\repos\LTIday1\MethodEg\obj\Debug\MethodEg.csprojAssemblyReference.cache
+C:\Users\abc\source\repos\LTIday1\MethodEg\obj\Debug\MethodEg.csproj.CoreCompileInputs.cache
+C:\Users\abc\source\repos\LTIday1\MethodEg\obj\Debug\MethodEg.exe
+C:\Users\abc\source\repos\LTIday1\MethodEg\obj\Debug\MethodEg.pdb

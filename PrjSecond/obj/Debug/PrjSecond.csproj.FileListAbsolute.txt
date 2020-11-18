@@ -1,0 +1,7 @@
+C:\Users\abc\source\repos\LTIday1\PrjSecond\obj\Debug\PrjSecond.csproj.CoreCompileInputs.cache
+C:\Users\abc\source\repos\LTIday1\PrjSecond\bin\Debug\PrjSecond.exe.config
+C:\Users\abc\source\repos\LTIday1\PrjSecond\bin\Debug\PrjSecond.exe
+C:\Users\abc\source\repos\LTIday1\PrjSecond\bin\Debug\PrjSecond.pdb
+C:\Users\abc\source\repos\LTIday1\PrjSecond\obj\Debug\PrjSecond.exe
+C:\Users\abc\source\repos\LTIday1\PrjSecond\obj\Debug\PrjSecond.pdb
+C:\Users\abc\source\repos\LTIday1\PrjSecond\obj\Debug\PrjSecond.csprojAssemblyReference.cache

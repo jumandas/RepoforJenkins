@@ -1,0 +1,7 @@
+C:\Users\abc\source\repos\LTIday1\Class_And_Objects\obj\Debug\Class_And_Objects.csprojAssemblyReference.cache
+C:\Users\abc\source\repos\LTIday1\Class_And_Objects\obj\Debug\Class_And_Objects.csproj.CoreCompileInputs.cache
+C:\Users\abc\source\repos\LTIday1\Class_And_Objects\bin\Debug\Class_And_Objects.exe.config
+C:\Users\abc\source\repos\LTIday1\Class_And_Objects\bin\Debug\Class_And_Objects.exe
+C:\Users\abc\source\repos\LTIday1\Class_And_Objects\bin\Debug\Class_And_Objects.pdb
+C:\Users\abc\source\repos\LTIday1\Class_And_Objects\obj\Debug\Class_And_Objects.exe
+C:\Users\abc\source\repos\LTIday1\Class_And_Objects\obj\Debug\Class_And_Objects.pdb
